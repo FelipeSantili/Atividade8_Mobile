@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/act_zoomin"
+        android:title="@string/act_zoomin"/>
+
+    <item
+        android:id="@+id/act_zoomout"
+        android:title="@string/act_zoomout"/>
+
+</menu>

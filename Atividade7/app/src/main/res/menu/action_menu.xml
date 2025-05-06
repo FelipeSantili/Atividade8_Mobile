@@ -3,21 +3,21 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/act_camera"
-        android:icon="@android:drawable/ic_menu_camera"
-        android:title="@string/act_camera"
+        android:id="@+id/act_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/act_add"
         app:showAsAction="ifRoom"
         />
     <item
-        android:id="@+id/act_call"
-        android:icon="@android:drawable/ic_menu_call"
-        android:title="@string/act_call"
+        android:id="@+id/act_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/act_edit"
         app:showAsAction="ifRoom|withText"
         />
     <item
-        android:id="@+id/act_rotate"
-        android:icon="@android:drawable/ic_menu_rotate"
-        android:title="@string/act_rotate"
+        android:id="@+id/act_remove"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/act_remove"
         app:showAsAction="ifRoom|withText"
         />
     <item
